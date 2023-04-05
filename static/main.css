@@ -1,0 +1,13 @@
+#box-1 {
+    width: 300px;
+    height: 300px;
+    background: #20a3ba;
+    /* static is easy is the default */
+    position: static;
+}
+
+#box-2 {
+    width: 150px;
+    height: 150px;
+    background: #7b3232;
+}

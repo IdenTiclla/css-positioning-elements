@@ -1,0 +1,27 @@
+#box-1 {
+    width: 300px;
+    height: 300px;
+    background: #20a3ba;
+    
+    
+    position: sticky;
+    /* se queda solo arriba */
+    /* top: 0; */ 
+
+    /* se queda solo abajo */
+    /* bottom: 0; */
+
+    /* combinado se queda arriba y abajo */
+    top: 0;
+    bottom: 0;
+}
+
+#box-2 {
+    width: 150px;
+    height: 150px;
+    background: #7b3232;
+    
+    position: absolute;
+    top: 75px;
+    left: 75px;
+}
